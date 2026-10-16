@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="[https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85](https://www.technewsworld.com/wp-content/uploads/sites/3/2025/02/humanoid-robot-programming-code.jpg)" alt="Generative AI technology" width="100%" />
+<img src="https://www.technewsworld.com/wp-content/uploads/sites/3/2025/02/humanoid-robot-programming-code.jpg" alt="Generative AI technology" width="100%" />
 
 # 🤖 AI Automated LinkedIn Job Tracker
 
