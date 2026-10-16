@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85" alt="Generative AI technology" width="100%" />
+<img src="[https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85](https://www.technewsworld.com/wp-content/uploads/sites/3/2025/02/humanoid-robot-programming-code.jpg)" alt="Generative AI technology" width="100%" />
 
 # 🤖 AI Automated LinkedIn Job Tracker
 
@@ -74,23 +74,23 @@
 
   **01 — Schedule**
   
-  The Schedule Trigger starts the workflow at the configured time.
+   The Schedule Trigger starts the workflow at the configured time.
   
   **02 — Collect**
   
-  The RSS Read node retrieves content from the configured RSS feed.
+   The RSS Read node retrieves content from the configured RSS feed.
   
   **03 — Analyze**
   
-  The Basic LLM Chain processes the incoming content using the connected Google Gemini model.
+   The Basic LLM Chain processes the incoming content using the connected Google Gemini model.
   
   **04 — Structure**
   
-  The Structured Output Parser helps format the AI-generated response into the expected structure.
+   The Structured Output Parser helps format the AI-generated response into the expected structure.
   
   **05 — Store**
   
-  The Google Sheets node appends or updates the processed information in the configured spreadsheet.
+   The Google Sheets node appends or updates the processed information in the configured spreadsheet.
 
 ### 📌 Workflow Outcome
 
@@ -126,35 +126,35 @@
 
   **Step 1 — Export the workflow**
   
-  Open the workflow in n8n and export it as a JSON file.
+   Open the workflow in n8n and export it as a JSON file.
   
   **Step 2 — Import into n8n**
   
-  Open your n8n workspace and import the exported JSON workflow.
+   Open your n8n workspace and import the exported JSON workflow.
   
   **Step 3 — Configure the RSS feed**
   
-  Set the RSS feed URL to a source that provides the job-related information you want to track.
+   Set the RSS feed URL to a source that provides the job-related information you want to track.
   
   **Step 4 — Configure Google Gemini**
   
-  Set up the required credentials and verify the model connected to the Basic LLM Chain.
+   Set up the required credentials and verify the model connected to the Basic LLM Chain.
   
   **Step 5 — Configure structured output**
   
-  Review the Structured Output Parser schema and ensure it matches the output expected by your workflow and spreadsheet.
+   Review the Structured Output Parser schema and ensure it matches the output expected by your workflow and spreadsheet.
   
   **Step 6 — Connect Google Sheets**
   
-  Authorize your Google account, choose the destination spreadsheet, and map the generated fields to the correct columns.
+   Authorize your Google account, choose the destination spreadsheet, and map the generated fields to the correct columns.
   
   **Step 7 — Test the workflow**
   
-  Execute the workflow manually and check the execution results, AI output, and spreadsheet entries.
+   Execute the workflow manually and check the execution results, AI output, and spreadsheet entries.
   
   **Step 8 — Enable automation**
   
-  Once the workflow works correctly, activate or publish it according to your n8n version and configuration.
+   Once the workflow works correctly, activate or publish it according to your n8n version and configuration.
   
 ## 📊 Suggested Google Sheets Fields
 
